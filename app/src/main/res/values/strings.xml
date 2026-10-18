@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BioPulse</string>
+    <string name="creator_name">Amit Samal</string>
+    <string name="creator_email">samal007amit@gmail.com</string>
+    <string name="built_by_label">Built by Amit Samal</string>
+</resources>

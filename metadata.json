@@ -1,0 +1,6 @@
+{
+  "name": "BioPulse",
+  "description": "Bioscience innovation tracking and AI-powered intelligence across research journals and clinical trial databases. Built by Amit Samal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

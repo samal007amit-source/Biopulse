@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- DNA Strand Left Curve -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#64FFDA"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M38,28 C48,36 60,42 60,54 C60,66 48,72 38,80" />
+    <!-- DNA Strand Right Curve -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M70,28 C60,36 48,42 48,54 C48,66 60,72 70,80" />
+    <!-- Base pair connectors -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M40,31 L68,31 M45,39 L63,39 M52,48 L56,48 M52,60 L56,60 M45,69 L63,69 M40,77 L68,77" />
+    <!-- Molecular Nodes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,28m-3,0a3,3 0,1,1 6,0a3,3 0,1,1 -6,0" />
+    <path
+        android:fillColor="#64FFDA"
+        android:pathData="M70,28m-3,0a3,3 0,1,1 6,0a3,3 0,1,1 -6,0" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M38,80m-3,0a3,3 0,1,1 6,0a3,3 0,1,1 -6,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,80m-3,0a3,3 0,1,1 6,0a3,3 0,1,1 -6,0" />
+    <!-- Central Innovation Sparkle / Node -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,54m-4,0a4,4 0,1,1 8,0a4,4 0,1,1 -8,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-2,0a2,2 0,1,1 4,0a2,2 0,1,1 -4,0" />
+</vector>
